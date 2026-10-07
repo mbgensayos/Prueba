@@ -6,5 +6,5 @@ Formulario web (`index.html`) que envía cada pedido a la hoja de cálculo media
 1. En la hoja de cálculo: Extensiones › Apps Script › pega `Code.gs`.
 2. Implementar › Nueva implementación › Aplicación web · Ejecutar como: yo · Acceso: cualquier usuario.
 3. Copia la URL y pégala en `SCRIPT_URL`, dentro de `index.html`.
-4. Ajusta `CATALOGO` (productos, precios, tallas, colores…) y, si quieres, `FECHA_LIMITE`.
-5. Publica `index.html` (GitHub Pages, Netlify, o incrústalo en Wix con un elemento HTML).
+4. Ajusta `PRODUCTS` (productos, precios, tallas, colores…) si cambia algo.
+5. Sube `index.html` junto con `flamenco.png` (el icono) a GitHub Pages o Netlify, o incrústalo en Wix con un elemento HTML. Si falta el icono, la página se ve igual, solo que sin él.
